@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Tamara99-crystal
+- 👋 Hi, I’m @TamaraOgechi
 - 👀 I’m interested in blockchain technology.
 - 🌱 I’m currently learning more about the blockchain.
 - 📫 How to reach me 
