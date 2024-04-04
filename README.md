@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TamaraOgechi
-- 👀 I’m interested in blockchain technology.
-- 🌱 I’m currently learning more about the blockchain.
-- 📫 How to reach me 
+- 👀 I’m interested in data analysis.
+- 🌱 I’m currently learning more about data analysis.
+- 📫 How to reach me - check the links in my profile.
  
 
 <!---
